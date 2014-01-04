@@ -5,7 +5,11 @@ A simple java application to run a "tap test" described by Dan John.
 
 ## General Description
 
-I looked around quite a bit and couldn't find anyone that had implemented a "tap test" application that would count the number of keystrokes someone could do in a time frame.  Dan John mentions having a friend write him a simple application in the book, Easy Strength.  I thought the tap test would be a good thing to test my neuro-muscular efficiency before each of my morning workouts, so I threw together a quick Java application to do so.  It is an eclipse project that can generate (Export...) an executable jar file.  Then you can execute the jar file using the command:
+I looked around quite a bit and couldn't find anyone that had implemented a "tap test" application that would count the number of keystrokes someone could do in a time frame.  Dan John mentions having a friend write him a simple application in the book, Easy Strength.  I thought the tap test would be a good thing to test my neuro-muscular efficiency before each of my morning workouts, so I threw together a quick Java application to do so.  It is an eclipse project that can generate (Export...) an executable jar file.  You can download the releases here:
+
+[https://github.com/kddubb/danjohn-taptest/releases](https://github.com/kddubb/danjohn-taptest/releases)
+
+Then you can execute the jar file using the command:
 
 `java -jar /path/to/TapTest-v0.1.jar`
 
